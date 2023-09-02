@@ -7,12 +7,12 @@
     }
   },
   "PatchInfo": {
-    "DownloadUrl": "https://digital-shinka.github.io/Site/UpdatePatch/",
-    "MinPatchVersion": 1,
-    "PatchVersion":78
+    "DownloadUrl": "https://digital-redmo2.github.io/Site/UpdatePatch/",
+    "MinPatchVersion": 0,
+    "PatchVersion":1
   },
   "LanuncherInfo": {
-    "DownloadPath": "https://digital-shinka.github.io/Site/Launcher/",
+    "DownloadPath": "https://digital-redmo2.github.io/Site/Launcher/",
     "CurrentVersion": 319,
     "ExeFileName": "DSOLauncher.exe",
     "RunExeFileName": "GDMO.exe",
@@ -69,7 +69,7 @@
     ]
   },
   "UMInfo": {
-    "DownloadPath": "https://digital-shinka.github.io/Site/UpdateManager/",
+    "DownloadPath": "https://digital-redmo2.github.io/Site/UpdateManager/",
     "CurrentVersion": 10,
     "ExeFileName": "UpdateManager.exe",
     "RunExeFileName": "DSOLauncher.exe",
