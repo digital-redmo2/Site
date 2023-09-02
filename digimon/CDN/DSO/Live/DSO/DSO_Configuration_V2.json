@@ -14,7 +14,7 @@
   "LanuncherInfo": {
     "DownloadPath": "https://digital-redmo2.github.io/Site/Launcher/",
     "CurrentVersion": 319,
-    "ExeFileName": "DSOLauncher.exe",
+    "ExeFileName": "REDMOLauncher.exe",
     "RunExeFileName": "GDMO.exe",
     "VersionList": [
       {
@@ -72,7 +72,7 @@
     "DownloadPath": "https://digital-redmo2.github.io/Site/UpdateManager/",
     "CurrentVersion": 10,
     "ExeFileName": "UpdateManager.exe",
-    "RunExeFileName": "DSOLauncher.exe",
+    "RunExeFileName": "REDMOLauncher.exe",
     "VersionList": [
       {
         "Version": 8,
@@ -110,8 +110,8 @@
       "GameDownloadUrl": "https://discord.gg/vtNnzfSF",
       "MainPageUrl": "https://digital-shinka.github.io/Site/main.html",
       "BanerUrl": "https://digital-shinka.github.io/Site/banner.html",
-      "ClientIP": "game.digitalshinkaonline.com",
-	    "ClientPort": "7056",
+      "ClientIP": "127.0.0.1",
+	    "ClientPort": "7029",
       "Unlock":false
 	  
     }
