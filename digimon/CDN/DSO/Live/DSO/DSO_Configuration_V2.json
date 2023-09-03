@@ -105,7 +105,7 @@
   "RumbleConfig": "https://digital-shinka.github.io/digimon/cdn/rumble/live/RumbleConfig.json",
   "MainUrl": [
     {
-      "TypeName": "DIGIMONMASTERS",
+      "TypeName": "GSP",
       "HomePageUrl": "https://discord.gg/vtNnzfSF",
       "GameDownloadUrl": "https://discord.gg/vtNnzfSF",
       "MainPageUrl": "https://digital-shinka.github.io/Site/main.html",
