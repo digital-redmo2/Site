@@ -108,8 +108,8 @@
       "TypeName": "GSP",
       "HomePageUrl": "https://discord.gg/vtNnzfSF",
       "GameDownloadUrl": "https://discord.gg/vtNnzfSF",
-      "MainPageUrl": "https://digital-shinka.github.io/Site/main.html",
-      "BanerUrl": "https://digital-shinka.github.io/Site/banner.html",
+      "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx",
+      "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
       "ClientIP": "127.0.0.1",
 	    "ClientPort": "7029",
       "Unlock":false
