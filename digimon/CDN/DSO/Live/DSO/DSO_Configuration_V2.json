@@ -2,7 +2,7 @@
   "ServerInfo": {
     "Maintenance": false,
     "Message": {
-      "Title": "Digital Shinka Online In Development.",
+      "Title": "RE Digimon Masters Online In Development.",
       "Msg": "The server is undergoing inspection or updates.\nConnect to <https://discord.gg/vtNnzfSF for more information."
     }
   },
@@ -110,7 +110,7 @@
       "GameDownloadUrl": "https://discord.gg/vtNnzfSF",
       "MainPageUrl": "http://www.digimonmasters.com/launcher/GameLauncher.aspx",
       "BanerUrl": "http://www.digimonmasters.com/launcher/GameLauncherBanner.aspx",
-      "ClientIP": "127.0.0.1",
+      "ClientIP": "213.142.156.212",
 	    "ClientPort": "7029",
       "Unlock":false
 	  
